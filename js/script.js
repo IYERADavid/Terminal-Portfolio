@@ -13,7 +13,7 @@ function handleCommand(cmd) {
     cmd = cmd.toLowerCase().trim(); // Normalize command
     commandLog.push(cmd); // Store command in commandLog
 
-    output.innerHTML += `\n\nvisitor@portfolio:~$ ${cmd}`; // Display command
+    output.innerHTML += `\n\nDavid@portfolioEngine:~$ ${cmd}`; // Display command
 
     if (cmd === 'clear') {
         output.innerHTML = ''; // Clear output
