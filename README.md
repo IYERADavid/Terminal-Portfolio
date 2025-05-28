@@ -3,19 +3,14 @@
 ## About The Project
 
 A portfolio made to emulate a terminal environment
-This Project is live at
-
-![header image for the site](assets/banner.png)
 
 ### Built With
 
 HTML, CSS and JavaScript
 
-### Based On
+### Inspired by
 
-[this site by Prithvi Yewale(cosmicwanderer7)](https://cosmicwanderer7.github.io/Terminal-Portfolio/theme0.html)
-
-[and this site by ForrestKnight](https://fkcodes.com/)
+[ForrestKnight](https://fkcodes.com/)
 
 ### Still To-Do
 
@@ -24,6 +19,6 @@ HTML, CSS and JavaScript
 
 ## Contact Me
 
-Email: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
+Email: [sparrows.au@gmail.com](mailto:iyeradavid@gmail.com)
 
 <p align="right">(<a href="#terminal-style-portfolio">back to top</a>)</p>
