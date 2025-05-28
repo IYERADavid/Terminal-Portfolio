@@ -19,6 +19,6 @@ HTML, CSS and JavaScript
 
 ## Contact Me
 
-Email: [sparrows.au@gmail.com](mailto:iyeradavid@gmail.com)
+Email: [yeradavid@gmail.com](mailto:iyeradavid@gmail.com)
 
 <p align="right">(<a href="#terminal-style-portfolio">back to top</a>)</p>
